@@ -25,13 +25,13 @@ $(document).ready(function () {
 
   // typing animation script
   var typed = new Typed('.typing', {
-    strings: ['Estudante', 'Desenvolvedor.'],
+    strings: ['Assistente de informática', 'Estudante de ADS'],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true
   })
   var typed = new Typed('.typing2', {
-    strings: ['estudante.', 'Front-End.', 'Dev.'],
+    strings: ['Assistente de informática', 'Estudante'],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true
